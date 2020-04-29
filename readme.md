@@ -11,11 +11,11 @@ https://github.com/Gcenx/WineskinServer/releases
 ## Setup a Wineskin
 1. Download Wineskin Winery, which is a package to build macOS style App wrappers around Windows applications: https://github.com/Gcenx/WineskinServer/releases/download/V1.8.4.2/Wineskin.Winery.zip 
 1. Open Wineskin winery. It should look a bit like:
- ![WrapperVersion](images/wineskin_first_run.png | width=100)
+![WrapperVersion](images/wineskin_first_run.png | width=100)
 1. 1. In the **Wrapper Version** section, click **Update**. As of writing this, it should download 'wineskin-2.9.0.6'
 1. 1. Under the **Installed Engines** section, click the **+** button and locate "WS11WineCX64Bit19.0.1". If this is updated it might ...19.0.2 or whatever. That's fine. 
 1. 1. This will download a few reasonably large files, and might take a while.
-  ![WrapperInstalledEngines](images/wineskin_installed_engines.png | width=100)
+![WrapperInstalledEngines](images/wineskin_installed_engines.png | width=100)
 1. Now click **Create New Blank Wrapper**. This generates a macOS Application with everything required for Wine, so it can be quiet big. 
 1. 1. Make sure to note where this file/application is created
 1. 1. If Wineskin unexpectedly exits or crashes try again. It's a bit buggy. 
@@ -26,7 +26,7 @@ https://github.com/Gcenx/WineskinServer/releases
 1. With the Wineskin menu open, we will first install Quicktime.
 1. Get the Quicktime installer. A copy that works is here
 1. Choose **Install Software**
-  ![WrapperVersion](images/wineskin_install_software.png | width=100)
+![WrapperVersion](images/wineskin_install_software.png | width=100)
 1. 1. Hit **Choose Setup Executable** and find the quicktime installer you downloaded. 
 1. 1. Let that finish installing
 1. Locate the Clan Lord Windows install zip file.
