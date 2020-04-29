@@ -24,7 +24,7 @@ https://github.com/Gcenx/WineskinServer/releases
 
 ## Install Clan Lord
 1. With the Wineskin menu open, we will first install Quicktime.
-1. Get the Quicktime installer. A copy that works is here
+1. Get the Quicktime installer. A copy that works [is here](https://github.com/thesquib/clanlord_on_catalina/raw/master/resources/QuickTimeInstaller.exe)
 1. Choose **Install Software**
     ![WineskinInstall](images/wineskin_install_software.png)
     1. Hit **Choose Setup Executable** and find the quicktime installer you downloaded. 
