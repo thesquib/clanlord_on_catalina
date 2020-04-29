@@ -1,6 +1,8 @@
 # Clan Lord in Wine on Catalina
 
 ## Overview
+This is a funny world. It's now easier to run Windows software on Mac than it is to run 32-bit Mac software on a Mac with the Catalina OS installed. Here's some info on how to do this for Clan Lord. 
+
 We will be using the excellent efforts of https://github.com/Gcenx, who has made unofficial builds of Wine which include support for Catalina. 
 
 Updates are released fairly often, so this guide may go out of date quickly:
