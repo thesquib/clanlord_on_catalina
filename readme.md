@@ -5,7 +5,7 @@ This is a funny world. It's now easier to run Windows software on Mac than it is
 
 We will be using the excellent efforts of https://github.com/Gcenx, who has made unofficial builds of Wine which include support for Catalina. 
 
-Updates are released fairly often, so this guide may go out of date quickly:
+Updates to the wineskin are released sometimes, so this guide may go out of date. Find the latest Wineskin here:
 https://github.com/Gcenx/WineskinServer/releases
 
 ## Setup a Wineskin
@@ -15,7 +15,7 @@ https://github.com/Gcenx/WineskinServer/releases
 1. 1. In the **Wrapper Version** section, click **Update**. As of writing this, it should download 'wineskin-2.9.0.6'
 1. 1. Under the **Installed Engines** section, click the **+** button and locate "WS11WineCX64Bit19.0.1". If this is updated it might ...19.0.2 or whatever. That's fine. 
 1. 1. This will download a few reasonably large files, and might take a while.
-![WrapperInstalledEngines](images/wineskin_installed_engines.png | width=100)
+![WrapperInstalledEngines](images/wineskin_installed_engines.png)
 1. Now click **Create New Blank Wrapper**. This generates a macOS Application with everything required for Wine, so it can be quiet big. 
 1. 1. Make sure to note where this file/application is created
 1. 1. If Wineskin unexpectedly exits or crashes try again. It's a bit buggy. 
