@@ -23,13 +23,14 @@ https://github.com/Gcenx/WineskinServer/releases
  ![WineskinFirstOpen](images/wineskin_first_open.png)
 
 ## Install Clan Lord
+1. Note if at any point it asks you to install Wine Gecko, just agree (click install)
 1. With the Wineskin menu open, we will first install Quicktime.
-1. Get the Quicktime installer. A copy that works [is here](https://github.com/thesquib/clanlord_on_catalina/raw/master/resources/QuickTimeInstaller.exe)
-1. Choose **Install Software**
+1. (Optional- needed for sound) Get the Quicktime installer. A copy that works [is here](https://github.com/thesquib/clanlord_on_catalina/raw/master/resources/QuickTimeInstaller.exe)
+    1. Choose **Install Software**
     ![WineskinInstall](images/wineskin_install_software.png)
     1. Hit **Choose Setup Executable** and find the quicktime installer you downloaded. 
     1. Let that finish installing
-1. Locate the Clan Lord Windows install zip file. A copy from April 2020 [is here](https://github.com/thesquib/clanlord_on_catalina/raw/master/resources/ClanLord.zip)
+1. (Required) Locate the Clan Lord Windows install zip file. A copy from April 2020 [is here](https://github.com/thesquib/clanlord_on_catalina/raw/master/resources/ClanLord.zip)
     1. Unzip it somewhere and note the location. 
 1. Get back the **Install Software** menu
     1. Hit **Copy A Folder Inside** and choose the Clan Lord Windows folder you unzipped
